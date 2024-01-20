@@ -1,0 +1,11 @@
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe.config
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.exe
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\bin\Debug\TreeVisualizer.pdb
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.AssemblyReference.cache
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.MainWindow.resources
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.Properties.Resources.resources
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.GenerateResource.cache
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.exe
+C:\Users\phamt\Downloads\Tree-Visualizer-main\Tree-Visualizer-main\TreeVisualizer\TreeVisualizer\obj\Debug\TreeVisualizer.pdb
